@@ -26,6 +26,9 @@ something new to learn, adapt, and evolve—whether it’s refining a tiny featu
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[From Research to Real-World Impact: Using Machine Learning to Enhance Crop Yield Prediction in Agriculture](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)
+
+[Balancing Innovation and Consistency in UX/UI Design: Lessons from Apple’s Approach to Disruptive Innovation](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
