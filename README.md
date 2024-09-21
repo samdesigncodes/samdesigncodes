@@ -26,9 +26,13 @@ something new to learn, adapt, and evolve—whether it’s refining a tiny featu
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Optimizing Crop Health: A Low-Cost Approach to Plant Disease Detection Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)
+
 [From Research to Real-World Impact: Using Machine Learning to Enhance Crop Yield Prediction in Agriculture](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)
 
 [Balancing Innovation and Consistency in UX/UI Design: Lessons from Apple’s Approach to Disruptive Innovation](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)
+
+[Overcoming Barriers to Agricultural Innovation: The Role of Simplified Interfaces and Data Privacy](https://medium.com/@samoti0771/overcoming-barriers-to-agricultural-innovation-the-role-of-simplified-interfaces-and-data-privacy-834a8751346a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
