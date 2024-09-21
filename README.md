@@ -24,7 +24,7 @@ product design, it means constantly seeking user feedback, challenging assumptio
 intuitive experiences. At the core, I see improvement as an ongoing journey rather than a destination. There's always
 something new to learn, adapt, and evolve—whether it’s refining a tiny feature or making a groundbreaking discovery.**
 
-### Blogs posts
+### Blogs posts ✍️
 <!-- BLOG-POST-LIST:START -->
 [Optimizing Crop Health: A Low-Cost Approach to Plant Disease Detection Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)
 
