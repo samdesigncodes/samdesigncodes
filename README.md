@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **a.samueloti@gmail.com**
 
-- 📄 Product Analytics/ML Portfolio [https://samuelattakorah.tiiny.site](https://samuelattakorah.tiiny.site)
+- 📄 Product Analytics/ML CV [https://samuelattakorah.tiiny.site](https://samuelattakorah.tiiny.site)
 
 - ⚡ Fun fact **I'm a firm believer that anything—from products, processes, to even the way we think—can be improved with
 the right approach. Whether it's enhancing the accuracy of a machine learning model, redesigning a user interface for
