@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/explore-space-sunrise-coffee-universe-pig-gif-12136751)]
+<div class="tenor-gif-embed" data-postid="12136751" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/explore-space-sunrise-coffee-universe-pig-gif-12136751">Explore Space Sunrise GIF</a>from <a href="https://tenor.com/search/explore+space-gifs">Explore Space GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Samuel Attakorah</h1>
 <h3 align="center">I'm a Data Scientist and Product Designer with a strong background in machine learning, data
