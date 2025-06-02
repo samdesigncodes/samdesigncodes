@@ -20,7 +20,6 @@
 | **Research Assistant, Carolina University** | • Co-authored paper on GNN vs Random Forest yield prediction<br/>• Top-15 Kaggle finish (Future Crop Challenge) |
 | **Frontend Dev & BI Lead, FARA** | • Shipped React + Tableau procurement dashboard to 20 + AU research institutes |
 
-*(Full CV → [PDF](#) | [LinkedIn](https://linkedin.com/in/samuel-oti-attakorah-0771))*  
 
 ---
 
