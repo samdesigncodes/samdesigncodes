@@ -1,113 +1,70 @@
-<h1 align="center">Hi 👋, I'm Samuel Attakorah</h1>
-<h3 align="center">I'm a Data Scientist and Product Designer with a strong background in machine learning, data
-    analytics, and user experience. I specialize in using data to solve real-world problems, from predictive modeling in
-    agriculture to fintech solutions that enhance financial inclusion. My work is driven by a passion for creating
-    data-driven insights and innovative product designs that are both practical and impactful.</h3>
-
-- 🔭 I’m currently working on [Detect Plant Disease](https://detectplantdisease.streamlit.app/)
-
-- 👨‍💻 Product Design Portfolio
-[https://samdesigncodes.github.io/samportfolio/](https://samdesigncodes.github.io/samportfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@samoti0771](https://medium.com/@samoti0771)
-
-- 📫 How to reach me **a.samueloti@gmail.com**
-
-- ⚡ Fun fact **I'm a firm believer that anything—from products, processes, to even the way we think—can be improved with
-the right approach. Whether it's enhancing the accuracy of a machine learning model, redesigning a user interface for
-better engagement, or optimizing a workflow to boost efficiency, I approach every problem with the mindset that there's
-always a better way. In data science, this belief drives my curiosity and fuels my persistence. I continually experiment
-with algorithms, fine-tune models, and iterate on design to push boundaries and discover innovative solutions. In
-product design, it means constantly seeking user feedback, challenging assumptions, and striving to create seamless,
-intuitive experiences. At the core, I see improvement as an ongoing journey rather than a destination. There's always
-something new to learn, adapt, and evolve—whether it’s refining a tiny feature or making a groundbreaking discovery.**
-
-### Blogs posts ✍️ Quick Read into what i think about 💭
-<!-- BLOG-POST-LIST:START -->
-[Optimizing Crop Health: A Low-Cost Approach to Plant Disease Detection Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)
-
-[From Research to Real-World Impact: Using Machine Learning to Enhance Crop Yield Prediction in Agriculture](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)
-
-[Balancing Innovation and Consistency in UX/UI Design: Lessons from Apple’s Approach to Disruptive Innovation](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)
-
-[Overcoming Barriers to Agricultural Innovation: The Role of Simplified Interfaces and Data Privacy](https://medium.com/@samoti0771/overcoming-barriers-to-agricultural-innovation-the-role-of-simplified-interfaces-and-data-privacy-834a8751346a)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/samuel-oti-attakorah-0771/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="samuel-oti-attakorah-0771/" height="30" width="40" /></a>
-    <a href="https://dribbble.com/samdesigncodes" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            alt="samdesigncodes" height="30" width="40" /></a>
-    <a href="https://medium.com/@samoti0771" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@samoti0771" height="30" width="40" /></a>
+<h1 align="center">Hey there 👋 I'm Samuel Attakorah</h1>
+<p align="center">
+  <strong>Data Scientist • Analytics Engineer • Product-minded Problem Solver</strong><br/>
+  Turning messy real-world data into clear insights, usable tools, and business growth.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-        href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-            width="40" height="40" /> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
-        target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a> </p>
+---
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=samdesigncodes&show_icons=true&locale=en&layout=compact"
-        alt="samdesigncodes" /></p>
+## 🚀  What I’m Up To
+- **Building:** <a href="https://detectplantdisease.streamlit.app/">Detect Plant Disease</a> – a Streamlit app that combines a lightweight CNN with explainable Grad-CAM overlays to help small-holder farmers spot crop issues early.  
+- **Experimenting:** Graph Neural Networks for spatio-temporal crop-yield forecasting (research spun out of my Carolina University assistantship).  
+- **Scaling:** Event pipelines & A/B-test frameworks for fintech products at <em>Marygold & Co.</em> (cut KYC drop-off ↓ 40%).  
+
+---
+
+## 💼  Experience Highlights
+| Role | ✨ Impact Snapshot |
+|------|------------------|
+| **Data Scientist, Marygold & Co. (US & UK)** | • Built CatBoost propensity model that drove **+10 k funded accounts** in 90 days<br/>• Designed and instrumented onboarding funnel → KYC completion ↑ 40 % |
+| **Research Assistant, Carolina University** | • Co-authored paper on GNN vs Random Forest yield prediction<br/>• Top-15 Kaggle finish (Future Crop Challenge) |
+| **Frontend Dev & BI Lead, FARA** | • Shipped React + Tableau procurement dashboard to 20 + AU research institutes |
+
+*(Full CV → [PDF](#) | [LinkedIn](https://linkedin.com/in/samuel-oti-attakorah-0771))*  
+
+---
+
+## 📊  Recent Projects
+| Project | Stack | Why it matters |
+|---------|-------|----------------|
+| **Plus2 Remittance Bot** | FastAPI · Redis · Circle USDC | Off-ramp USDC → Mobile-Money in <30 s using WhatsApp only |
+| **T-Bill Savings Optimiser** | Snowflake · dbt · Streamlit | Real-time treasury-bill laddering with user-level yield simulation |
+| **Plant Disease Detector** | PyTorch · Streamlit · OpenCV | Democratise crop-health diagnostics for low-resource farmers |
+
+---
+
+## ✍️  Latest Posts
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing Crop Health: A Low-Cost Approach to Plant Disease Detection Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)  
+- [From Research to Real-World Impact: ML for Crop-Yield Prediction](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)  
+- [Balancing Innovation & Consistency in UX/UI Design](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🛠  Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="32"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="32"/> 
+  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="32"/>
+</p>
+
+---
+
+## 📫  Let’s Collaborate
+- Email: **a.samueloti@gmail.com**  
+- Medium: <https://medium.com/@samoti0771>  
+- Portfolio: <https://samdesigncodes.github.io/samportfolio/>  
+
+*Always happy to chat about interesting data problems, ML product strategy, or the best Ghanaian jollof in Charlotte.*  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samdesigncodes&layout=compact&hide=html,css" alt="Top languages"/>
+</p>
