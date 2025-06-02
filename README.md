@@ -58,7 +58,7 @@
 ---
 
 ## 📫  Let’s Collaborate
-- Email: **a.samueloti@gmail.com**  
+- Email: **samueloattakorah@gmail.com**  
 - Medium: <https://medium.com/@samoti0771>  
 - Portfolio: <https://samdesigncodes.github.io/samportfolio/>  
 
