@@ -16,7 +16,7 @@
 ## 💼  Experience Highlights
 | Role | ✨ Impact Snapshot |
 |------|------------------|
-| **Data Scientist, Marygold & Co. (US & UK)** | • Built CatBoost propensity model that drove **+10 k funded accounts** in 90 days<br/>• Designed and instrumented onboarding funnel → KYC completion ↑ 40 % |
+| **Product Design / Product Analyst, Marygold & Co. (US & UK)** | • Built CatBoost propensity model that drove **+10 k funded accounts** in 90 days<br/>• Designed and instrumented onboarding funnel → KYC completion ↑ 40 % |
 | **Research Assistant, Carolina University** | • Co-authored paper on GNN vs Random Forest yield prediction<br/>• Top-15 Kaggle finish (Future Crop Challenge) |
 | **Frontend Dev & BI Lead, FARA** | • Shipped React + Tableau procurement dashboard to 20 + AU research institutes |
 
