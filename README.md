@@ -1,69 +1,76 @@
-<h1 align="center">Hey there 👋 I'm Samuel Attakorah</h1>
+<h1 align="center">Hey there 👋 I’m Samuel Attakorah</h1>
+
 <p align="center">
-  <strong>Data Scientist • Analytics Engineer • Product-minded Problem Solver</strong><br/>
-  Turning messy real-world data into clear insights, usable tools, and business growth.
+  <strong>Product Designer • AI Builder • Data-Informed Problem Solver</strong><br/>
+  Designing thoughtful products that simplify complex workflows and help people accomplish more.
 </p>
 
 ---
 
-## 🚀  What I’m Up To
-- **Building:** <a href="https://detectplantdisease.streamlit.app/">Detect Plant Disease</a> – a Streamlit app that combines a lightweight CNN with explainable Grad-CAM overlays to help small-holder farmers spot crop issues early.  
-- **Experimenting:** Graph Neural Networks for spatio-temporal crop-yield forecasting (research spun out of my Carolina University assistantship).  
-- **Scaling:** Event pipelines & A/B-test frameworks for fintech products at <em>Marygold & Co.</em> (cut KYC drop-off ↓ 40%).  
+## 👋 About Me
+
+I’m a product designer with a background in data science, frontend development, fintech, and AI-powered products.
+
+I currently work at **Fastbreak AI**, where I design scheduling and planning tools that help sports organizations manage leagues, teams, venues, constraints, and complex operational workflows.
+
+Outside work, I build products around problems I personally care about, particularly financial access, payments, and technology for emerging markets.
 
 ---
 
-## 💼  Experience Highlights
-| Role | ✨ Impact Snapshot |
-|------|------------------|
-| **Product Design / Product Analyst, Marygold & Co. (US & UK)** | • Built CatBoost propensity model that drove **+10 k funded accounts** in 90 days<br/>• Designed and instrumented onboarding funnel → KYC completion ↑ 40 % |
-| **Research Assistant, Carolina University** | • Co-authored paper on GNN vs Random Forest yield prediction<br/>• Top-15 Kaggle finish (Future Crop Challenge) |
-| **Frontend Dev & BI Lead, FARA** | • Shipped React + Tableau procurement dashboard to 20 + AU research institutes |
+## 🚀 What I’m Working On
 
+* **Designing at Fastbreak AI:** Creating scheduling products that turn complex rules, constraints, and operational decisions into clear and usable experiences.
 
----
+* **Building [ShapShapp](https://www.shapshapp.com/):** A side project exploring a simpler way for people in Ghana and across Africa to make digital payments by tapping their phone or payment card. The goal is to make everyday transactions feel as straightforward as tapping and paying.
 
-## 📊  Recent Projects
-| Project | Stack | Why it matters |
-|---------|-------|----------------|
-| **Plus2 Remittance Bot** | FastAPI · Redis · Circle USDC | Off-ramp USDC → Mobile-Money in <30 s using WhatsApp only |
-| **T-Bill Savings Optimiser** | Snowflake · dbt · Streamlit | Real-time treasury-bill laddering with user-level yield simulation |
-| **Plant Disease Detector** | PyTorch · Streamlit · OpenCV | Democratise crop-health diagnostics for low-resource farmers |
+* **Exploring AI-assisted product development:** Using Figma, Claude, Cursor, and functional prototypes to move quickly from an early idea to something people can test and use.
 
 ---
 
-## ✍️  Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Crop Health: A Low-Cost Approach to Plant Disease Detection Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)  
-- [From Research to Real-World Impact: ML for Crop-Yield Prediction](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)  
-- [Balancing Innovation & Consistency in UX/UI Design](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)  
-<!-- BLOG-POST-LIST:END -->
+## 💼 Experience Highlights
+
+| Role                                                     | Impact                                                                                                                                                                             |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Product Designer, Fastbreak AI**                       | Design complex scheduling, logistics, and planning workflows for sports organizations. Partner closely with product and engineering from early exploration through implementation. |
+| **Product Design & Data Analytics Lead, Marygold & Co.** | Designed fintech experiences across onboarding, savings, T-Bills, Money Pools, and virtual cards. Helped reduce onboarding drop-off by 40%.                                        |
+| **Knowledge Manager & Data Analyst, FARA**               | Designed data platforms and digital tools supporting agricultural research organizations across Africa.                                                                            |
+| **Research Assistant, Carolina University**              | Applied machine learning and data science to healthcare and agricultural research problems.                                                                                        |
 
 ---
 
-## 🛠  Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="32"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="32"/> 
-  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="32"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="32"/>
-</p>
+## 🧪 Side Projects
+
+| Project                                                                 | Focus                                  | Why It Matters                                                                                                          |
+| ----------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **[ShapShapp](https://www.shapshapp.com/)**                             | Product Design · Payments · Fintech    | Explores how tap-to-pay experiences can make digital payments easier for consumers and small businesses across Africa.  |
+| **Plus2 Money**                                                         | Product Design · WhatsApp · Remittance | Explores a simpler way to send money and complete mobile-money transactions through familiar conversational interfaces. |
+| **[Plant Disease Detector](https://detectplantdisease.streamlit.app/)** | AI · Computer Vision · Agriculture     | Helps smallholder farmers identify potential crop diseases using image recognition and explainable AI.                  |
 
 ---
 
-## 📫  Let’s Collaborate
-- Email: **samueloattakorah@gmail.com**  
-- Medium: <https://medium.com/@samoti0771>  
-- Portfolio: <https://samdesigncodes.github.io/samportfolio/>  
+## 🛠 Tools and Technologies
 
-*Always happy to chat about interesting data problems, ML product strategy, or the best Ghanaian jollof in Charlotte.*  
+**Design:** Figma · Prototyping · Design Systems · User Research · Interaction Design
+**Product Development:** Cursor · Claude · Next.js · React · Tailwind CSS
+**Data and AI:** Python · PyTorch · Pandas · Scikit-learn · SQL
+**Platforms:** Supabase · PostgreSQL · Redis · Vercel · AWS
+
+---
+
+## ✍️ Selected Writing
+
+* [Balancing Innovation and Consistency in UX/UI Design](https://medium.com/@samoti0771/balancing-innovation-and-consistency-in-ux-ui-design-lessons-from-apples-approach-to-disruptive-1c7a4971c9b0)
+* [Optimizing Crop Health Using AI](https://medium.com/@samoti0771/optimizing-crop-health-a-low-cost-approach-to-plant-disease-detection-using-ai-7939010ef916)
+* [Using Machine Learning to Improve Crop-Yield Prediction](https://medium.com/@samoti0771/from-research-to-real-world-impact-using-machine-learning-to-enhance-crop-yield-prediction-in-7f154c5b4d62)
+
+---
+
+## 📫 Let’s Connect
+
+* **Email:** [samueloattakorah@gmail.com](mailto:samueloattakorah@gmail.com)
+* **Portfolio:** https://samdesigncodes.github.io/samportfolio/
+* **Medium:** https://medium.com/@samoti0771
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samdesigncodes&layout=compact&hide=html,css" alt="Top languages"/>
+  <em>I enjoy working where product design, AI, data, and real-world problems meet.</em>
 </p>
