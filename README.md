@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I’m Samuel Attakorah</h1>
 
 <p align="center">
-  <strong>Product Designer • AI Builder • Data-Informed Problem Solver</strong><br/>
+  <strong>Product Designer • Data-Informed Problem Solver</strong><br/>
   Designing thoughtful products that simplify complex workflows and help people accomplish more.
 </p>
 
